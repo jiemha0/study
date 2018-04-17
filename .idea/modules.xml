@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient-spring/httpclient-spring.iml" filepath="$PROJECT_DIR$/httpclient/httpclient-spring/httpclient-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient/support/support.iml" filepath="$PROJECT_DIR$/httpclient/support/support.iml" />
     </modules>
   </component>
 </project>
